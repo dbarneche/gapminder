@@ -2,3 +2,6 @@
 gapminder.Rproj
 .Rproj.user
 .Rhistory
+.drake/
+output/
+doc/*.html
